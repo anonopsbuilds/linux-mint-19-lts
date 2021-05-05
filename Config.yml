@@ -1,1 +1,33 @@
 theme: cinnamon-master
+
+CINNAMONPANEL AND CINNAMONTHEME 1.1 
+
+CINNAMON front panel emulation with gtk3 and cinnamon theme
+
+INSTALLATION:
+
+A) CDE Panel app
+
+1) extract the zip to some place you can access
+2) copy 'cdepanel' to your path, or just run it from there
+(maybe you need to make it executable, do: 'chmod u+x cdepanel')
+
+If you are using xfce4 the script will set a different CDE
+backdrop to every workspace. However, not all versions of xfce4 allow
+setting the backdrop from a script. So you may need to go into
+SETTINGS/DESKTOP and uncheck 'Apply to all workspaces'.
+
+The Gtk2/3 theme uses images (arrows and such). Gtk3 doesnt always display
+these sharply, depending on the dpi setting or font size. If some elemens
+in apps appear blurred, try modifying your custom dpi setting or font
+size. (XFCE SETTINGS/APPEARANCE/FONTS)
+
+If the 'cdepanel' binary doesnt work on your system, you need to TWEAK (see below)
+
+B) Gtk/xfce theme *without* cde panel app
+
+1) copy 'cdetheme' directory to ~/.themes
+2) Go into xfce/settings/ appearance and window manager to pick 'cdetheme'
+(or similar app in other environments)
+3) use the 'switchtheme' script for picking a new color palette or set the
+window height/border width
