@@ -1,0 +1,6 @@
+Choosing the right version of Linux Mint
+
+Each new version comes with a new kernel and a newer set of drivers. Most of the time, this means newer versions are compatible with a larger variety of hardware 
+components, but sometimes it might also introduce regressions. If you are facing hardware issues with the latest version of Linux Mint and you are unable to solve
+them, you can always try an earlier release. If that one works better for you, you can stick to it, or you can use it to install Linux Mint and then upgrade to the 
+newer release.
