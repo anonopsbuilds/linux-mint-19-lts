@@ -1,28 +1,25 @@
 #themaddog-description
-** Une liste organisée d'environnements de piratage où vous pouvez former vos compétences cybernétiques légalement et en toute sécurité ** 
 
-Pour tout le monde dans le domaine de la sécurité de l'information, il est important de comprendre l'ennemi, le pirate informatique. 
-Comprendre l'ennemi fait de vous le meilleur défenseur possible pour sécuriser le monde numérique.
+A curated list of hacking environments where you can train your cyber skills legally and safely **
 
-> EN CONNAISSANT VOTRE ENNEMI, VOUS POUVEZ VAINCRE VOTRE ENNEMI.
+For everyone in the field of information security, it is important to understand the enemy, the hacker. Understanding the enemy makes you the best possible defender to secure the digital world.
 
-Il possède une vaste expérience dans l'informatique, l'édition de logiciel et la sécurité de l'information en tant que passionné, formateur, consultant et chercheur international, avec une expérience réussie dans le développement et la direction de programmes techniques de cybersécurité d'entreprise pour les organisations militaires et mondiales.
+    BY KNOWING YOUR ENEMY, YOU CAN OVERCOME YOUR ENEMY.
 
-Il utilise la gestion des risques dans la phase de planification tout en mettant en œuvre les mesures de défense appropriées au bon endroit et a des équipes dirigeantes pour le faire.
-Il a réalisé des centaines d'évaluations et d'audits de sécurité pour de nombreux clients.
+He has extensive experience in IT, software publishing and information security as an international enthusiast, trainer, consultant and researcher, with successful experience in developing and leading technical cybersecurity programs business for military and global organizations.
 
-Outre les évaluations de vulnérabilité, il donne des cours avancés de piratage EN DIRECT, il prendra en charge un serveur / ordinateur, un téléphone ou pirater tout le monde dans la pièce en un seul coup, sans blesser personne.
+It uses risk management in the planning phase while implementing the right defenses in the right place and has management teams to do it. He has performed hundreds of security assessments and audits for numerous clients.
 
-En utilisant les dernières techniques de piratage, il éduquera également le public pour expliquer ce qui vient de se passer.
-Il utilise les attaques Man-in-the-Middle, l'empoisonnement ARP, le reniflage, les injections de script, l'usurpation DNS et les sessions de détournement qui se produisent sur les appareils et explique comment les empêcher dans un cadre LIVE.
+Besides vulnerability assessments, it gives advanced LIVE hacking lessons, it will take over a server / computer, phone or hack everyone in the room in one go, without harming anyone.
 
-Il peut également simuler une attaque DOS qui fait tomber les réseaux les plus puissants.
+Using the latest hacking techniques, it will also educate the public to explain what just happened. It uses Man-in-the-Middle attacks, ARP poisoning, sniffing, script injections, DNS spoofing, and hijacking sessions that occur on devices and how to prevent them in a LIVE setting.
 
-Bien connu des services militaires français sous le nom de "The MadDoG", il a présenté pour le magazine képi blanc le piratage informatique et la cybercriminalité.
+It can also simulate a DOS attack that brings down the most powerful networks.
 
-Il a commencé sa carrière en sécurité de l'information à la Légion Etrangère où il a effectué des recherches sur la cybersécurité, la cybercriminalité, la cyber-criminalistique, la confidentialité et la protection des données.
+Well known to the French military services under the name of "The MadDoG", he presented for the magazine képi blanc computer hacking and cybercrime.
 
-Il possède une solide expertise dans le développement d'architectures de concept et de cybersécurité avec une grande expérience technique pratique dans les systèmes de cybersécurité.
-Il était responsable d'importants travaux de recherche via OWASP, OSINT & Darknet et il était responsable de nombreux projets d'assurance de l'information qui impliquaient des approches et des systèmes de cybersécurité pour la détection, la prévention et l'atténuation des activités malveillantes.
+He began his career in information security at the Foreign Legion where he carried out research on cybersecurity, cybercrime, cyber forensics, privacy and data protection.
 
-Il a également parlé fréquemment de la cybersécurité et du piratage lors de conférences militaires et professionnelles et a publié des articles et des blogs sur des questions liées à la cybersécurité.
+He has strong expertise in the development of concept and cybersecurity architectures with extensive practical technical experience in cybersecurity systems. He was responsible for important research work through OWASP, OSINT & Darknet and he was responsible for numerous information assurance projects that involved cybersecurity approaches and systems for the detection, prevention and mitigation of activities malicious.
+
+He has also spoken frequently about cybersecurity and hacking at military and professional conferences and has published articles and blogs on cybersecurity-related issues. 
