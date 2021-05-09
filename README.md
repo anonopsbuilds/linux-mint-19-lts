@@ -1,6 +1,7 @@
-#themaddog-description
+The MadDoG .tmdg
+Description
 
-A curated list of hacking environments where you can train your cyber skills legally and safely **
+A curated list of hacking environments where you can train your cyber skills legally and safely 
 
 For everyone in the field of information security, it is important to understand the enemy, the hacker. Understanding the enemy makes you the best possible defender to secure the digital world.
 
